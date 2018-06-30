@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"de.delgrosso.calc","l":"Main"}]

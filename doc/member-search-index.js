@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"de.delgrosso.calc","c":"Main","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"de.delgrosso.calc","c":"Main","l":"Main()"}]
