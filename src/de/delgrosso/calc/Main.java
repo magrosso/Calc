@@ -13,12 +13,12 @@ public class Main {
      * @param args the values passed from command line
      */
     public static void main(String[] args) {
-        String s = new String("for");
+        String str1 = new String("for");
 
         Gson json = new Gson();
-        String jsonString = json.toJson(s);
+        String jsonString = json.toJson(str1);
 
-        System.out.println("original string: " + s);
+        System.out.println("original string: " + str1);
         System.out.println("json string: " + jsonString);
 
     }
