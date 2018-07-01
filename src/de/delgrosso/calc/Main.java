@@ -15,8 +15,8 @@ public class Main {
     public static void main(String[] args) {
         String str1 = new String("for");
 
-        Gson json = new Gson();
-        String jsonString = json.toJson(str1);
+        Gson gson = new Gson();
+        String jsonString = gson.toJson(str1);
 
         System.out.println("original string: " + str1);
         System.out.println("json string: " + jsonString);
